@@ -16,11 +16,11 @@ This project explores the relationship between food prices and health outcomes i
 
 ## **Dataset**  
 The dataset includes:  
-1. Daily Cost of Healthy Diet per Person  
-2. Monthly Food Price Index (CFPI)  
-3. Share of Population Unable to Afford a Healthy Diet  
-4. Prevalence of Undernourishment  
-5. Employment Distribution by Sector (Agriculture, Industry, Services)
+1. daily cost of healthy diet per person.csv
+2. monthly change in food price over the years.csv
+3. share of pop that cannot afford healthy diet.csv
+4. share of pop that is undernourished.csv
+5. share-employment-agriculture-industry-services.csv
 
 Source: **Amdor Analytics**
 
