@@ -111,7 +111,7 @@ Special thanks to **Amdor Analytics** for providing the dataset and supporting t
 ## **Contact**  
 **Name:** Godwin Agwu  
 - **GitHub:** [Impact-of-Food-Prices-on-Health](#)  
-- **Medium Article:** [Medium](https://godwinogele.medium.com/the-impact-of-food-prices-on-health-power-bi-analysis-and-dashboard-bcbc1ebcf309)]
+- **Medium Article:** [Medium](https://godwinogele.medium.com/the-impact-of-food-prices-on-health-power-bi-analysis-and-dashboard-bcbc1ebcf309)
 - **LinkedIn:** [Godwin Agwu](https://www.linkedin.com/in/godwin-agwu/)  
 - **Email:** [godwinogeleagwu@gmail.com](mailto:godwinogeleagwu@gmail.com)  
 
